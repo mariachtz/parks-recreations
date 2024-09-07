@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f4f9;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+/* Styling the main heading (h1) */
+h1 {
+    color: #ff0095;
+    font-size: 3em;
+    text-align: center;
+}
